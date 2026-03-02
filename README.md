@@ -1,6 +1,6 @@
 # JS_Advance_Revision_For_React 
 
-##with  14 Fundamental Concepts (Problem Solving Repository)
+## with  14 Fundamental Concepts (Problem Solving Repository)
 
 ## 📌 About This Repository
 
